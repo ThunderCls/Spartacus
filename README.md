@@ -36,6 +36,6 @@ The Builder incorporates the following:<br>
 [+] Podes detect new infections that enter the canal with alert messages by this program when minimized<br>
 [+] The stub and control bot talk every so often to avoid being seen as bot<br>
 <br>
-Video : 
+Video : https://www.youtube.com/watch?v=3TUN9_rq2sE
 
 

@@ -43,6 +43,6 @@ An image :
 
 An video : 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3TUN9_rq2sE/0.jpg)]https://www.youtube.com/embed/3TUN9_rq2sE)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3TUN9_rq2sE/0.jpg)]http://www.youtube.com/watch?v=3TUN9_rq2sE)
 
 Good Bye

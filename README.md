@@ -43,6 +43,6 @@ An image :
 
 An video : 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/3TUN9_rq2sE" frameborder="0"></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3TUN9_rq2sE/0.jpg)]https://www.youtube.com/embed/3TUN9_rq2sE)
 
 Good Bye

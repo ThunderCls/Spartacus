@@ -41,6 +41,8 @@ An image :
 
 ![image](http://doddyhackman.webcindario.com/images/spartacus.jpg)
 
-An video : https://www.youtube.com/watch?v=3TUN9_rq2sE
+An video : 
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/3TUN9_rq2sE" frameborder="0" allowfullscreen></iframe>
 
 Good Bye

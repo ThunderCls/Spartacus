@@ -1,4 +1,4 @@
-Spartacus
+Project Spartacus
 =========
 
 As a Christmas gift I bring my IRC Botnet I did in Delphi with the following options:<br>

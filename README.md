@@ -45,6 +45,4 @@ An video :
 
 [![Alt text for your video](http://img.youtube.com/vi/3TUN9_rq2sE/0.jpg)](http://www.youtube.com/watch?v=3TUN9_rq2sE)
 
-[![image](http://img.youtube.com/vi/3TUN9_rq2sE/0.jpg)]http://www.youtube.com/watch?v=3TUN9_rq2sE)
-
 Good Bye
